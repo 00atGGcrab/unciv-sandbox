@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Infinite gold",
+		"gold": 999999,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	},
+	{
+		"name": "Cultural increase",
+		"gold": 999,
+		"culture": 1000,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	},
+	{
+		"name": "Faith increase",
+		"gold": 999,
+		"faith": 50,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Increase research speed",
+		"gold": 999,
+		"science": 30,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	},
+	{
+		"name": "Food increase",
+		"gold": 999,
+		"food": 50,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	},
+	{
+		"name": "New unit XP increase",
+		"gold": 999,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
+	},
+	{
+		"name": "Increased city defense",
+		"gold": 999,
+		"cityStrength": 100,
+		"cityHealth": 1000,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	},
+	{
+		"name": "Increased city production",
+		"gold": 999,
+		"production": 999999,
+		"cost": 0,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 0
+	}
+]
