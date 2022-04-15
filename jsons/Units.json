@@ -1,0 +1,13 @@
+[
+  {
+		"name": "Mega Crab",
+		"unitType": "Melee",
+		"movement": 50,
+		"strength": 650000,
+		"cost": 0,
+		"uniques": ["Amphibious", "Defense bonus when embarked", "+1 Visibility Range"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	
+	}
+]
