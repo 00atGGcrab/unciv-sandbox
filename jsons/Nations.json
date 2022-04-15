@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Crab Nation",
+		"leaderName": "Crabug",
+		"adjective": ["Crabbers"],
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Scientific",
+        
+        "startIntroPart1": "crabs are crabs.",
+		
+
+		"declaringWar": "CRABS FOREVER!!!",
+		"attacked": "we will eat you",
+		"defeated": "how is this even possible",
+		"afterPeace": "we will not eat you",
+
+		"introduction": "we will eat you",		
+		"neutralHello": "hi",
+		"hateHello": "WHAT?????",		
+		"tradeRequest": "take it or leave it",
+
+		"outerColor": [10,17,10],
+		"innerColor": [145,88,228],
+		"uniqueName": "Secrets of the Crabs",
+		"uniques": ["[2000] Free Technologies",
+			"Starts with [Mining]",
+      "Starts with [Animal Husbandry]",
+      "Starts with [Archery]",
+      "Starts with [Pottery]",
+      "Starts with [Sailing]",
+      "Starts with [Trapping]",
+      "Starts with [The Wheel]",
+      "Starts with [Masonry]",
+      "Starts with [Bronze Working]",
+			"Unlock more secrets by building upon the Sacred Mound"],
+		A"cities": ["Crabity","Elon Musk","Bill Gates","Mark Zuckerber","Joe Mama","Pariiiiis","Among Us","Fortnite","Valorant","Minecraft","Bee","Ant","afstgarsdatsds","T8","Europe","Asia"]
+    }
+]
