@@ -4,7 +4,8 @@
 		"gold": 999999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	},
 	{
 		"name": "Cultural increase",
@@ -12,7 +13,8 @@
 		"culture": 50,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	},
 	{
 		"name": "Faith increase",
@@ -21,6 +23,7 @@
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
+		"uniqueTo": "Crab Nation",
 		"uniques": ["Hidden when religion is disabled"]
 	},
 	{
@@ -29,7 +32,8 @@
 		"science": 30,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	},
 	{
 		"name": "Food increase",
@@ -37,7 +41,8 @@
 		"food": 50,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	},
 	{
 		"name": "New unit XP increase",
@@ -45,6 +50,7 @@
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
+		"uniqueTo": "Crab Nation",
 		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
 	},
 	{
@@ -54,7 +60,8 @@
 		"cityHealth": 1000,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	},
 	{
 		"name": "Increased city production",
@@ -62,6 +69,7 @@
 		"production": 100,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
 	}
 ]
