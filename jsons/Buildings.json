@@ -10,7 +10,7 @@
 	{
 		"name": "Cultural increase",
 		"gold": 999,
-		"culture": 50,
+		"culture": 999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
