@@ -101,7 +101,8 @@
 			    "Starts with [Particle Physics]",
 			    "Starts with [Nuclear Fusion]",
 			    "Starts with [Nanotechnology]",
-			    "Starts with [Stealth]",]
+			    "Starts with [Stealth]",
+	                    "Starts with [Tradition]",]
 		"cities": ["Crabity","Elon Musk","Bill Gates","Mark Zuckerber","Joe Mama","Jeff Bezos","Among Us","Fortnite","Valorant","Minecraft","Will Smith","Steve Huffman","John Doe","Sundar Pichai","Europe","Google","Asia"]
     }
 ]
