@@ -102,7 +102,7 @@
 	{
 		"name": "Production+++",
 		"gold": 999,
-		"production": 100,
+		"production": 999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
