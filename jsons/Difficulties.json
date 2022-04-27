@@ -1,0 +1,12 @@
+[
+	{
+		"name": "CRAB",
+		"baseHappiness": 999,
+		"extraHappinessPerLuxury": 999,
+		"researchCostModifier": 0.9,
+		"unitCostModifier": 0.01,
+		"buildingCostModifier": 0.000000000000001,
+		"unhappinessModifier": 0.01,
+		"barbarianBonus": 0.33,
+	}
+]
