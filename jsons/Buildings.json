@@ -47,7 +47,7 @@
 	{
 		"name": "Increase research speed",
 		"gold": 999,
-		"science": 30,
+		"science": 999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
@@ -56,7 +56,25 @@
 	{
 		"name": "Food increase",
 		"gold": 999,
-		"food": 50,
+		"food": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},
+	{
+		"name": "Food increase",
+		"gold": 999,
+		"food": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},
+	{
+		"name": "Food increase",
+		"gold": 999,
+		"food": 999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
