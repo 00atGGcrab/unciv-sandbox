@@ -8,7 +8,7 @@
 		"uniqueTo": "Crab Nation"
 	},
 	{
-		"name": "Cultural increase",
+		"name": "Culture+",
 		"gold": 999,
 		"culture": 999,
 		"cost": 1,
@@ -16,6 +16,24 @@
 		"maintenance": 999,
 		"uniqueTo": "Crab Nation"
 	},
+	{
+		"name": "Culture++",
+		"gold": 999,
+		"culture": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},
+        {
+		"name": "Culture+++",
+		"gold": 999,
+		"culture": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},	
 	{
 		"name": "Faith increase",
 		"gold": 999,
@@ -64,7 +82,25 @@
 		"uniqueTo": "Crab Nation"
 	},
 	{
-		"name": "Increased city production",
+		"name": "Production+",
+		"gold": 999,
+		"production": 100,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},
+	{
+		"name": "Production++",
+		"gold": 999,
+		"production": 100,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation"
+	},
+	{
+		"name": "Production+++",
 		"gold": 999,
 		"production": 100,
 		"cost": 1,
