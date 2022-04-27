@@ -3,3 +3,5 @@ unciv sandbox mod
 
 Download Unciv Here: https://github.com/yairm210/Unciv
 
+Don't forget to select the 'CRAB' difficulty option
+
