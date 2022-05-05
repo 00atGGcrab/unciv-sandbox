@@ -35,9 +35,29 @@
 		"uniqueTo": "Crab Nation"
 	},	
 	{
-		"name": "Faith increase",
+		"name": "Faith increase+",
 		"gold": 999,
-		"faith": 50,
+		"faith": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Faith increase++",
+		"gold": 999,
+		"faith": 999,
+		"cost": 1,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniqueTo": "Crab Nation",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Faith increase+++",
+		"gold": 999,
+		"faith": 999,
 		"cost": 1,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
