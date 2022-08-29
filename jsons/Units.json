@@ -10,5 +10,17 @@
 		"attackSound": "shot"
 	        "uniqueTo": "Crab Nation",
 	
+	},
+	{
+		"name": "Banana",
+		"unitType": "Melee",
+		"movement": 20,
+		"strength": 650000,
+		"cost": 0,
+		"uniques": ["Amphibious", "Defense bonus when embarked", "+10 Visibility Range", "Can move after attacking", "Never appears as a Barbarian unit", "Can see invisible [Land] units"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	        "uniqueTo": "Crab Nation",
+		
 	}
 ]
