@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Banana",
-		"unitType": "Range",
+		"unitType": "Melee",
 		"movement": 20,
 		"strength": 650000,
 		"cost": 0,
